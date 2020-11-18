@@ -1,0 +1,3 @@
+[submodule "pages/components"]
+	path = pages/components
+	url = https://github.com/abecerraguz/components.git
