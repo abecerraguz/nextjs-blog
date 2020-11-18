@@ -36,4 +36,9 @@ También podemos ahorrarnos las dos últimas líneas con --recursive:
  git clone --recursive git@github.com:abecerraguz/nextjs-blog.git
 ~~~
 
+Para actualizar el Submodulo
+~~~html
+ git submodule update --remote
+~~~
+
 
